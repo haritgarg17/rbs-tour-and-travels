@@ -1,0 +1,7 @@
+{
+  "name": "RBS Tour and Travels - India Specialist",
+  "description": "A premium travel agency website for RBS Tour and Travels, offering bespoke travel experiences across India with an AI-powered itinerary planner.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
